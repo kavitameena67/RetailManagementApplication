@@ -38,4 +38,4 @@
 ## Few points to note 
 
 1. Mongo DB is deployed in Cloud
-2. Database, Collection, Documents are created in MongoDB Clous for testing purpose.
+2. Database, Collection, Documents are created in MongoDB (Cloud) for testing purpose.
