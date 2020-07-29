@@ -1,9 +1,10 @@
 # RetailManagementApplication
 
 ## Technologies
-1. Spring Boot 
-2. Mongo DB
-3. Maven 
+1. Spring Boot : Server side framework
+2. Mongo DB : NoSQL database
+3. Apache Maven : Build tool
+4. Swagger : API documentation
 
 ## Build the project
 
